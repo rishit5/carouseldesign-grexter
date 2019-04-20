@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Explanation
+In the given time and circumstances, I could only implement the basic functionality of the <br>
+carousel including
+1. AutoPlay which is set to 3 seconds
+2. Could not make it a generic component 
+3. Used Animations and sliding effect which were coded from scratch.
+4. Did not use any third party carousel library
+
+
+
+
+
+
+his project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
